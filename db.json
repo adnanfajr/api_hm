@@ -1,7 +1,7 @@
 {
     "pasiens": [
         {
-            "id": 003003,
+            "id": 3003,
             "nama": "Anita Hapsari",
             "nik": "3175075068490003",
             "rujukan": "0",
@@ -12,7 +12,7 @@
             "jadwal": "10 Agustus 2019"
         },
         {
-            "id": 003004,
+            "id": 3004,
             "nama": "Sarah Humaira",
             "nik": "3175075068490004",
             "rujukan": "1",
@@ -23,7 +23,7 @@
             "jadwal": "11 Agustus 2019"
         },
         {
-            "id": 003005,
+            "id": 3005,
             "nama": "Salma Novita",
             "nik": "3175075068490005",
             "rujukan": "2",
@@ -34,7 +34,7 @@
             "jadwal": "11 Agustus 2019"
         },
         {
-            "id": 003006,
+            "id": 3006,
             "nama": "Dewi Anggun",
             "nik": "3175075068490006",
             "rujukan": "3",
@@ -45,7 +45,7 @@
             "jadwal": "12 Agustus 2019"
         },
         {
-            "id": 003007,
+            "id": 3007,
             "nama": "Bella Permatasari",
             "nik": "3175075068490007",
             "rujukan": "1",
@@ -58,7 +58,7 @@
     ],
     "data_kia": [
     	{
-    		"id": 003003,
+    		"id": 3003,
     		"nama": "Anita Hapsari",
     		"domisili": "Mulyorejo",
     		"nik": "3175075068490003",
@@ -90,7 +90,7 @@
     		"donorhp": "081265749393"
     	},
     	{
-    		"id": 003005,
+    		"id": 3005,
     		"nama": "Salma Novite",
     		"domisili": "Mulyorejo",
     		"nik": "3175075068490003",
@@ -127,7 +127,7 @@
     ],
     "riwayat_anc": [
     	{
-    		"id": 003003,
+    		"id": 3003,
     		"hpht": "26 Maret 2019",
     		"hpl": "10 Desember 2019",
     		"lila": "24.5",
@@ -145,7 +145,7 @@
     		"jarak": "1 tahun 2 bulan"
     	},
     	{
-    		"id": 003005,
+    		"id": 3005,
     		"hpht": "17 Agustus 2019",
     		"hpl": "10 Januari 2020",
     		"lila": "25.5",
